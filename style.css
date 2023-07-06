@@ -21,6 +21,7 @@ body {
 }
 
 .container {
+   
     position: relative;
     width: 310px;
     height: 370px;
@@ -31,7 +32,7 @@ body {
 }
 
 .user {
-    background-image: url("./a_t.png");
+    /* background-image: url("./a_t.png"); */
     background-size: cover;
     width: 90px;
     height: 90px;
