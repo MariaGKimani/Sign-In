@@ -1,9 +1,9 @@
-# sign-in-from
-A Smple Signin form made with Html &amp; Css &amp; Js :)
+# Log-in-from
+A Smple Log in form made with Html &amp; Css &amp; Js :)
 <br>
 <br>
 <br>
-<img src="about.PNG">
+<img src="12.png">
 <br>
 <br>
-## Have Fun :)
+
